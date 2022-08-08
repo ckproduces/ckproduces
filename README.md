@@ -6,7 +6,7 @@
 	<li>I'm from Turkey</li>
 	<li>I am currently studying at TEV Inanc High School</li>
 </ul>
-<hr>
+<br>
 
 <h2>💎 I am a...</h3>
 <ul>
@@ -14,7 +14,7 @@
 	<li>A Graphic & UI/UX Designer</li>
 	<li>A Music Producer</li>
 </ul>
-<hr>
+<br>
 
 <h2>🔑 I am currently working on...</h3>
 <ul>
@@ -22,7 +22,7 @@
 	<li>Artificial Intelligence</li>
 	<li>Chrome Extensions</li>
 </ul>
-<hr>
+<br>
 
 <h2>🤙 Reach Me</h3>
 <ul>
@@ -33,4 +33,3 @@
 		Instagram: <a href="https://instagram.com/ckproduces">@ckproduces</a>
 	</li>
 </ul>
-<hr>
