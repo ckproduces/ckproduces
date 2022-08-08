@@ -18,7 +18,6 @@ Howdy! 👋
 	🤙 Reach Me
 		LinkedIn - https://www.linkedin.com/in/cagriokan/
 		Instagram - @ckproduces
-		
 	
 		
 	
