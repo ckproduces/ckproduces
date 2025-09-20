@@ -12,4 +12,4 @@
 
 ## connections
 - linkedin: https://linkedin.com/in/cagriokan
-- instagram: https://instagram.com/crokan_
+- instagram: https://instagram.com/crokan_/
