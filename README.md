@@ -1,35 +1,15 @@
-<h1>Howdy! 👋</h1>
+# i am çağrı
 
-<h2>🎈 About Me?</h3>
-<ul>
-	<li>I'm Çağrı, aka @ckproduces</li>
-	<li>I'm from Turkey</li>
-	<li>I am currently studying at TEV Inanc High School</li>
-</ul>
-<br>
+## areas of interest
+- full stack development
+- machine learning
+- LLM's
+- statistics (also my major)
+- data science
 
-<h2>💎 I am a...</h3>
-<ul>
-	<li>A Full Stack Web Developer</li>
-	<li>A Graphic & UI/UX Designer</li>
-	<li>A Music Producer</li>
-</ul>
-<br>
+## what have i done so far
+- working on a portfolio site right now, this section will be updated soon.
 
-<h2>🔑 I am currently working on...</h3>
-<ul>
-	<li>IOS Development (Swift and SwiftUI)</li>
-	<li>Artificial Intelligence</li>
-	<li>Chrome Extensions</li>
-</ul>
-<br>
-
-<h2>🤙 Reach Me</h3>
-<ul>
-	<li>
-		LinkedIn: <a href="https://linkedin.com/in/cagriokan/">linkedin.com/in/cagriokan</a>
-	</li>
-	<li>
-		Instagram: <a href="https://instagram.com/ckproduces">@ckproduces</a>
-	</li>
-</ul>
+## connections
+- linkedin: https://linkedin.com/in/cagriokan
+- instagram: https://instagram.com/crokan_
