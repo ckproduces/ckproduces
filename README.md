@@ -8,7 +8,7 @@
 - data science
 
 ## what have i done so far
-- working on a portfolio site right now, this section will be updated soon.
+- [https://cagriokan.com](my personal website)
 
 ## connections
 - linkedin: https://linkedin.com/in/cagriokan
