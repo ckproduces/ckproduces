@@ -8,7 +8,7 @@
 - data science
 
 ## what have i done so far
-- [https://cagriokan.com](my personal website)
+- [my personal website](https://cagriokan.com)
 
 ## connections
 - linkedin: https://linkedin.com/in/cagriokan
