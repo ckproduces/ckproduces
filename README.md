@@ -1,50 +1,134 @@
-```
- ██████╗ █████╗  ██████╗ ██████╗ ██╗
-██╔════╝██╔══██╗██╔════╝ ██╔══██╗██║
-██║     ███████║██║  ███╗██████╔╝██║
-██║     ██╔══██║██║   ██║██╔══██╗██║
-╚██████╗██║  ██║╚██████╔╝██║  ██║██║
- ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
-                        o k a n
-```
+# Çağrı Okan
 
-i build tools that sit in front of model training: inspecting data, synthesizing what is missing, and wiring agents into real workflows.
+<p align="left">
+  <a href="https://cagriokan.com"><img src="https://img.shields.io/badge/Website-cagriokan.com-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/cagriokan"><img src="https://img.shields.io/badge/LinkedIn-cagriokan-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/cagrokan"><img src="https://img.shields.io/badge/Kaggle-cagrokan-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:cagrokan@gmail.com"><img src="https://img.shields.io/badge/Email-cagrokan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Istanbul%2C%20T%C3%BCrkiye-informational?style=flat-square" alt="Location" />
+</p>
 
-co-founder of [dropoutt](https://dropoutt.com). statistics at yıldız technical university (gpa 3.76/4.0). based in istanbul.
+Co-founder of **[dropoutt](https://dropoutt.com)**. I build tools that sit in front of model training and autonomous execution: auditing dataset quality, synthesizing domain data, and orchestrating multi-agent systems for production environments.
 
-## now
+BSc in Statistics from **Yıldız Technical University** (GPA: 3.76 / 4.0).
 
-**[dropoutt](https://github.com/ckproduces/dropoutt-cli)** — pre-flight checks for llm training data. a local python cli that scans corpora for empty loss masks, broken roles, truncation, contamination, pii, and language damage; fingerprints datasets so they can be compared without shipping records; and maps coverage onto a frozen atlas. product hunt #70 among 1,000+ products. → [dropoutt.com](https://dropoutt.com)
+---
 
-previously: part-time software engineer at ai business school (mern + microsoft agent framework, 20+ enterprise clients / 20k+ users). monitoring specialist at artı ve artı it consulting (3,000+ tickets, 24/7 continuity).
+### 🎯 Core Focus Areas
 
-## selected work
+- **LLM Data Engineering & Reliability:** Pre-flight sanity checks, loss mask verification, role structure audits, tokenization analysis, PII / contamination screening, and synthetic fine-tuning datasets.
+- **Multi-Agent Orchestration & SRE:** Autonomous diagnosis pipelines, tool execution loops, real-time observability (SSE), and self-healing infrastructure.
+- **Applied Machine Learning & Statistical Inference:** Probabilistic sequence modeling from scratch, NLP feature extraction, tabular ML, and RoBERTa embeddings.
 
-| repo | what it is |
-| --- | --- |
-| [dropoutt-cli](https://github.com/ckproduces/dropoutt-cli) | llm data quality: scan, fingerprint, atlas coverage |
-| [tokn](https://github.com/ckproduces/tokn) | llm-assisted design and synthesis of fine-tuning datasets |
-| [grid-up-datathon](https://github.com/ckproduces/grid-up-datathon) | transformer-level load forecast workshop (rmsle, experiment ledger) |
-| [VegOps](https://github.com/ckproduces/VegOps) | multi-agent sre loop: detect 5xx, diagnose, act, report |
-| [probabilistic-artificial-text-generator](https://github.com/ckproduces/probabilistic-artificial-text-generator) | character n-gram generator with temperature. from-scratch sequence modeling |
-| [personal-website](https://github.com/ckproduces/personal-website) | [cagriokan.com](https://cagriokan.com) |
+---
 
-also: [bulut](https://github.com/bulutai/bulut) (multi-agent accessibility web agent) · manifold (hackathon-winning synthetic image/video data) · ecoistanbul (kotlin, 6th worldwide in the 2023 world affairs challenge)
+### 🛠️ Featured Engineering Work
 
-## record
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Project</th>
+      <th width="45%">Description</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ckproduces/dropoutt-cli">dropoutt-cli</a></b><br/>
+        <sub><i>Product Hunt #70</i></sub>
+      </td>
+      <td>
+        Pre-flight data quality checks for LLM training pipelines. Scans corpora for empty loss masks, broken conversational roles, truncation, contamination, PII, and dataset drift.
+      </td>
+      <td>
+        <code>Python</code> <code>CLI</code> <code>LLM Data</code> <code>PyPI</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ckproduces/VegOps">VegOps</a></b>
+      </td>
+      <td>
+        Multi-agent SRE incident response system. Monitors production services on 5xx errors, runs a 3-agent diagnostic workflow, triggers automated recovery tools, and synthesizes team incident reports.
+      </td>
+      <td>
+        <code>FastAPI</code> <code>Next.js</code> <code>Multi-Agent</code> <code>fal.ai</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ckproduces/tokn">tokn</a></b><br/>
+        <sub><a href="https://tokn-phi.vercel.app">Live Demo</a></sub>
+      </td>
+      <td>
+        LLM-assisted workbench for designing and synthesizing fine-tuning datasets from specifications, topics, and seed examples.
+      </td>
+      <td>
+        <code>TypeScript</code> <code>Next.js</code> <code>LangChain</code> <code>Tailwind</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ckproduces/probabilistic-artificial-text-generator">probabilistic-text-gen</a></b>
+      </td>
+      <td>
+        Character n-gram sequence model with temperature-scaled multinomial sampling, built from scratch to study sequence generation dynamics without neural networks.
+      </td>
+      <td>
+        <code>Python</code> <code>PyTorch</code> <code>Statistics</code> <code>NLP</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/ckproduces/personal-website">cagriokan.com</a></b><br/>
+        <sub><a href="https://cagriokan.com">Live Site</a></sub>
+      </td>
+      <td>
+        Personal portfolio, technical essays, and project documentation built with modern typography and performance optimization.
+      </td>
+      <td>
+        <code>Next.js 15</code> <code>React</code> <code>TypeScript</code> <code>Tailwind</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **10th / 650+** — reply ai agent challenge 2026. multi-agent fraud detection, 6 hours.
-- **3rd nationally** — dataleague türkiye finals 2026. explainable fusion risk scoring (behavior + roberta + confidence weighting).
-- **6th worldwide** — world affairs challenge 2023. ecoistanbul, ai-powered sustainable tourism.
+*Also contributed to:*
+- **[bulut](https://github.com/bulutai/bulut)** — Multi-agent accessibility web agent.
+- **Manifold** — Hackathon-winning synthetic image/video data pipeline.
+- **EcoIstanbul** — AI-powered sustainable tourism platform (Kotlin, 6th worldwide in World Affairs Challenge 2023).
 
-education committee, ytü data science club. former javascript mentor at kodluyoruz.
+---
 
-## stack
+### 🏆 Hackathons & Competitions
 
-python · typescript · pytorch · scikit-learn · xgboost · langchain · fastapi · next.js · node · postgres · mongodb · linux
+- 🥇 **10th / 650+** — *Reply AI Agent Challenge 2026* (Autonomous multi-agent fraud detection in 6h).
+- 🥉 **3rd Nationally** — *DataLeague Türkiye Finals 2026* (Explainable fusion risk scoring with behavioral features + RoBERTa).
+- 🌍 **6th Worldwide** — *World Affairs Challenge 2023* (EcoIstanbul project).
 
-agents, llm applications, fine-tuning, synthetic data, statistical inference.
+---
 
-## links
+### 💻 Technical Stack
 
-[cagriokan.com](https://cagriokan.com) · [linkedin](https://linkedin.com/in/cagriokan) · [kaggle](https://www.kaggle.com/cagrokan) · [dropoutt](https://dropoutt.com) · cagrokan@gmail.com
+<p align="left">
+  <b>Languages:</b> <code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>SQL</code> · <code>C#</code> · <code>HTML/CSS</code><br/>
+  <b>AI & Data:</b> <code>PyTorch</code> · <code>Scikit-Learn</code> · <code>XGBoost</code> · <code>LightGBM</code> · <code>LangChain</code> · <code>HuggingFace</code> · <code>Pandas / NumPy</code><br/>
+  <b>Backend & Web:</b> <code>FastAPI</code> · <code>Next.js</code> · <code>React</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>MongoDB</code> · <code>Redis</code><br/>
+  <b>Tools & Infra:</b> <code>Docker</code> · <code>uv</code> · <code>Git / GitHub Actions</code> · <code>Linux</code> · <code>Vercel</code>
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ckproduces&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Çağrı Okan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckproduces&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Let's connect: <a href="https://linkedin.com/in/cagriokan">LinkedIn</a> • <a href="https://cagriokan.com">cagriokan.com</a> • <a href="mailto:cagrokan@gmail.com">cagrokan@gmail.com</a></sub>
+</p>
